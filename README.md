@@ -1,13 +1,5 @@
 # Freshness-PSD-to-HTML-Template-Design
- Freshness is a responsive website template converted from a PSD design using HTML, CSS, and JavaScript. Originally designed by OS Templates, this project was coded by Md Jahid Shah. It features a clean layout, modern styling, and smooth functionality, making it easy to customize and use. 🚀
-
- Here's a well-structured **README.md** file for your project:  
-
----
-
-## Freshness - PSD to HTML  
-
-**Freshness** is a fully responsive website template converted from a PSD design to HTML, CSS, and JavaScript. The original PSD design was created by **OS Templates**, and the coding was done by **Md Jahid Shah**.  
+ Freshness is a responsive website template converted from a PSD design using HTML, CSS, and JavaScript. Originally designed by **OS Templates**, this project was coded by **Md Jahid Shah**. It features a clean layout, modern styling, and smooth functionality, making it easy to customize and use. 🚀
 
 ### 📌 Features  
 - Fully responsive layout  
@@ -39,7 +31,7 @@ Freshness/
 - **Coded by**: [Md Jahid Shah](https://jahidshah.com)  
 
 ### 🚀 Live Demo  
-[Coming Soon / Add Your Live Link Here]  
+[Live Preview Here](https://mdjahidshah.github.io/Freshness-PSD-to-HTML-Template-Design/) 
 
 ### 📥 How to Use  
 1. Clone the repository:  
